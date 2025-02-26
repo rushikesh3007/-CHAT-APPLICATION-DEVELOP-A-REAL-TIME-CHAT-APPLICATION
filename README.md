@@ -75,4 +75,4 @@ Client-Side: The client connects to the server using Socket.IO and sets up event
 
 Conclusion
 This Real-Time Chat Application project demonstrates the power of Socket.IO in creating interactive and real-time web applications. By integrating frontend
-
+#OUTPUT: ![Image](https://github.com/user-attachments/assets/f4bb1f6d-7b69-4f88-a370-eada9f7a880c)
